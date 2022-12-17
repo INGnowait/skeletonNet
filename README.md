@@ -12,3 +12,6 @@ This code is for ‘The 6D pose estimation of the aircraft using geometric prope
 # Dataset:
 
 The dataset will be uploaded as soon as possible.
+
+# Run
+run main_ske.py
